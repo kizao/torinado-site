@@ -1,0 +1,13 @@
+@font-face { font-family: "Noto Sans JP"; src: url("fonts/noto.ttf"); font-weight: 100 900; font-display: swap; }
+@font-face { font-family: "Barlow Semi Condensed"; src: url("fonts/barlow.ttf"); font-weight: 700; font-display: swap; }
+
+body { font-family: "Noto Sans JP", sans-serif; }
+.studio-intro, .section-heading { font-weight: 750; }
+.studio-intro { letter-spacing: 0; text-wrap: balance; }
+.studio-intro span { display: inline-block; }
+.game h3 {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 700;
+  letter-spacing: .005em;
+}
+.game-type, .store-link { font-weight: 700; }
